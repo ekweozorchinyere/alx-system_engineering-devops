@@ -1,1 +1,1 @@
-task o, where am I
+shell init
